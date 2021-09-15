@@ -13,6 +13,10 @@ title and body along with a button to view particular post.
 - The entire data is fetched on first render but is shown sequentially in a pack of 10 posts as mentioned in the tasks.
 
 ## Getting Started with the project
+- Clone the repo
+```
+git clone https://github.com/Vrishabhsk/PostNow.git
+```
 - Install the dependancies
 ```
 npm install (or) yarn add
